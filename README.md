@@ -36,9 +36,11 @@ Agrupar a los clientes en **4 clusters diferenciados** según la calidad de red 
 
 ## 🗂️ Estructura del proyecto
 
+'''
 Telecom-Customer-Clustering/
 ├── Notebook/
 │ ├── Calidad_Red.ipynb # Notebook principal con el clustering
 │ └── matriz_scatter_boxplot_cluster.png # Visualización de los clusters
 ├── .gitignore # Archivos y carpetas ignorados por Git
 ├── LICENSE # Licencia del proyecto
+'''
