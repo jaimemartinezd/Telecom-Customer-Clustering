@@ -1,6 +1,6 @@
 # 📡 Telecom Customer Clustering
 
-Este proyecto de Machine Learning tiene como objetivo **segmentar clientes de una empresa de telecomunicaciones** en función de la **calidad de red percibida**, a partir de un conjunto de datos crudo con múltiples variables técnicas y de experiencia de usuario.
+Realizado en colaboración con @diegoManz. Este proyecto de Machine Learning tiene como objetivo **segmentar clientes de una empresa de telecomunicaciones** en función de la **calidad de red percibida**, a partir de un conjunto de datos crudo con múltiples variables técnicas y de experiencia de usuario.
 
 ---
 
